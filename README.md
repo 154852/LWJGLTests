@@ -2,6 +2,7 @@
 
 So LWJGL works which is pretty cool, but you need to be able to run it sooo...
 
+# Option 1 - Manual:
 ## Step 1 - Have Java
 Go to https://java.com/en/download/ and download java __1.8__ for your computer - make sure you get the right one for your operating system (Linux, Windows, Macos etc). To check it worked open an application called something along the lines of Terminal or Command Prompt and type:
 
@@ -41,7 +42,15 @@ Eg:
 You can use your mouse to drag the corners of the rectangle.
 To reset it press R.
 
+# Option 2 - Easy
+# Step 1 - Get the files and java
+Follow step one and two of Option 1 above
 
-**Also, I understand that this is a long a complicated way to lanuch something simple but I couldn't be bothered to make a launcher so... Maybe another day. :)**
+# Step 2 - Get the launcher
+Download the LWJGLLauncher.jar file from this repository
 
-**Finally, I just wanted to say that this is just a demonastration of how smooth the whole thing is, I can now easily adapt it for other purposes**
+# Step 3 - Run it
+Double click the LWJGLLauncher.jar file to run it. Easy.
+Unless it doesnt work. But it should. (If it doesnt make sure that the first jar is in your account - eg. Desktop or Downloads). If that doesnt work try option 1.
+
+**Finally, I just wanted to say that this is just a demonastration of how smooth the whole thing is, and how I can now easily adapt it for other purposes**
