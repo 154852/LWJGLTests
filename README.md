@@ -35,7 +35,7 @@ Finally type the following code:
   
 Eg:
   
-    java -jar -XstartOnFirstThread macos.jar
+    java -jar -XstartOnFirstThread macosx.jar
     
 ## How it works
 You can use your mouse to drag the corners of the rectangle.
