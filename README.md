@@ -43,13 +43,13 @@ You can use your mouse to drag the corners of the rectangle.
 To reset it press R.
 
 # Option 2 - Easy
-# Step 1 - Get the files and java
+## Step 1 - Get the files and java
 Follow step one and two of Option 1 above
 
-# Step 2 - Get the launcher
+## Step 2 - Get the launcher
 Download the LWJGLLauncher.jar file from this repository
 
-# Step 3 - Run it
+## Step 3 - Run it
 Double click the LWJGLLauncher.jar file to run it. Easy.
 Unless it doesnt work. But it should. (If it doesnt make sure that the first jar is in your account - eg. Desktop or Downloads). If that doesnt work try option 1.
 
